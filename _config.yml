@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Peterson / Site Title"
+title                    : "Peterson Lab"
 title_separator          : "-"
 name                     : &name "Peterson"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter Peterson"
-  avatar           : "profile.png"
+  avatar           : "pkp_withship.jpg"
   bio              : "Dr. Peterson is a scientist and educator specializing in atmospheric chemistry, remote sensing, and air ice chemical interactions. Dr. Peterson joined the Whittier College faculty in 2018 after working as a postdoctoral researcher at the University of Michigan.  He received a Ph.D. in Environmental Chemistry from the University of Alaska Fairbanks in 2015, and completed bachelor’s degrees in both Chemistry and Physics at Eastern Washington University."
   location         : "Whittier College"
   employer         :
