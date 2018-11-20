@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Chemistry, Eastern Washington University, 2008
+* B.S. Physics, Eastern Washington University, 2008
+* Ph.D in Environmental Chemistry, University of Alaska Fairbanks, 2015
 
-Work experience
+Professional Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2018-Present: Assistant Professor of Chemistry
+  * Whittier College
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Apr. 2015-Aug. 2018: Postdoctoral Researcher
+  * University of Michigan
+
 
 Publications
 ======
@@ -54,6 +42,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
