@@ -11,5 +11,5 @@ author_profile: true
 Major: Biochemistry
 
 #### Leslie Tanaka (Senior)
-![Leslie Tanaka](/images/LeslieTanaka.jpg){:height="150px"}
+<img src="/images/LeslieTanaka.jpg" height="150px">
 Major: Chemistry (ACS)
