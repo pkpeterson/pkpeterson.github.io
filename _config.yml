@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peter Peterson"
+  name             : "Peter Peterson, PhD"
   avatar           : "pkp_withship.jpg"
-  bio              : "Peter Peterson completed bachelor’s degrees in both Chemistry and Physics at Eastern Washington University. He obtained a PhD in Environmental Chemistry from the University of Alaska Fairbanks in 2015. Following a postdoctoral appointment at the University of Michigan, he joined the faculty at Whittier College in 2018. Peter and his group focus on using remote sensing and spectroscopy to understand pollution chemistry, halogen chemistry, and air-ice chemical interactions. In the classroom, Peter focuses on training students in the fundamentals of analytical chemistry with an emphasis on instrumental design and computer programming"
+  bio              : "Peter Peterson completed bachelor’s degrees in both Chemistry and Physics at Eastern Washington University. He obtained a PhD in Environmental Chemistry from the University of Alaska Fairbanks in 2015. Following a postdoctoral appointment at the University of Michigan, he joined the faculty at Whittier College in 2018. Peter and his group focus on using remote sensing and spectroscopy to understand pollution chemistry, halogen chemistry, and air-ice chemical interactions. In the classroom, Peter focuses on training students in the fundamentals of analytical chemistry with an emphasis on instrumental design and computer programming."
   location         : "Whittier College"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=95DfjuYAAAAJ&hl=en"
