@@ -7,7 +7,7 @@ author_profile: true
 
 
 #### Lisa Hernandez (Senior)
-![Lisa Hernandez](/images/LisaHernandez.jpg){:height="150px"}
+<img src="/images/LisaHernandez.jpg" height="150">
 Major: Biochemistry
 
 #### Leslie Tanaka (Senior)
