@@ -10,6 +10,11 @@ redirect_from:
 
 The Peterson Lab studies the remote sensing of atmospheric trace gas and aerosol vertical profiles to better understand processes associated with air quality and climate change in urban environments. We primarily focus on the use of novel spectroscopic techniques, such as Multiple Axis Differential Optical Absorption Spectroscopy (MAX-DOAS).
 
+
+<img src="/images/DOAS.jpg" height="150px">
+
+
+
 Research Interests
 ======
 1. Remote sensing of atmospheric trace gases from the ground and aircraft

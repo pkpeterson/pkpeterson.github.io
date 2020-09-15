@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /members/
 title: "Members"
 excerpt: "Group Members"

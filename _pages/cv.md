@@ -26,6 +26,7 @@ Professional Appointments
 
 Publications
 ======
+Please see Google Scholar for a Comprehensive Publication List
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
