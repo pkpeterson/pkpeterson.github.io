@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Members"
+    url: /members/
   - title: "Publications"
     url: /publications/
 
