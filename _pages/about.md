@@ -24,3 +24,8 @@ Research Interests
 For Prospective Members
 ======
 We are looking for prospective researchers, who are excited about environmental chemistry, spectroscopy, and fieldwork opportunities. If you are a Whittier College student who has taken CHEM 220B and are interested in joining us,  please contact Prof. Peterson in person or by email to set up a meeting.
+
+Campus PM<sub>2.5</sub> Measurements
+=====
+<div id='PurpleAirWidget_55251_module_PM25_conversion_C0_average_10_layer_standard'>Loading PurpleAir Widget...</div>
+<script src='https://www.purpleair.com/pa.widget.js?key=5PVQM8FJNB0TLNTG&module=PM25&conversion=C0&average=10&layer=standard&container=PurpleAirWidget_55251_module_PM25_conversion_C0_average_10_layer_standard'></script>
