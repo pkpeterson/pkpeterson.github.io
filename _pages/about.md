@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The Peterson Lab studies the remote sensing of atmospheric trace gas and aerosol vertical profiles to better understand processes associated with air quality and climate change in urban environments. We primarily focus on the use of novel spectroscopic techniques, such as Multiple Axis Differential Optical Absorption Spectroscopy (MAX-DOAS).
+The Peterson Lab studies the remote sensing of atmospheric trace gas and aerosol vertical profiles to better understand processes associated with air quality and climate change in both urban environments and the polar regions. 
 
 
 <img src="/images/DOAS.jpg" height="150px">
@@ -23,7 +23,7 @@ Research Interests
 
 For Prospective Members
 ======
-We are looking for prospective researchers, who are excited about environmental chemistry, spectroscopy, and fieldwork opportunities. If you are a Whittier College student who has taken CHEM 220B and are interested in joining us,  please contact Prof. Peterson in person or by email to set up a meeting.
+We are looking for prospective students, who are excited about environmental science, chemistry, and fieldwork. While prior computer programming experience is not required, a familiarity with Python is a plus. If you are a Whittier College student and are interested in joining us,  please contact Prof. Peterson in person or by email to set up a meeting.
 
 Campus PM<sub>2.5</sub> Measurements
 =====
