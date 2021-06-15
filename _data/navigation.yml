@@ -4,8 +4,8 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
-  - title: "Equipment"
-    url: /equipment/
+  - title: "Instruments"
+    url: /instruments/
 
 #  - title: "Talks"
 #    url: /talks/    
