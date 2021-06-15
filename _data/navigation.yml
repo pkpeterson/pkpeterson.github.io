@@ -4,9 +4,11 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Equipment"
+    url: /equipment/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    

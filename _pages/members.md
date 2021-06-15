@@ -5,12 +5,14 @@ title: "Members"
 excerpt: "Group Members"
 author_profile: true
 ---
+# Current Members
+* Emmanuel Shum
+	* Major: Chemistry (ACS)
 
-<img src="/images/LisaHernandez.jpg" height="150px">
-* Lisa Hernandez (Senior)
+# Alumni
+* Lisa Hernandez '21
 	* Major: Biochemistry
 	* 2019 Baudrand Fellow in Chemistry
 
-<img src="/images/LeslieTanaka.jpg" height="150px">
-* Leslie Tanaka (Senior)
+* Leslie Tanaka '21
 	* Major: Chemistry (ACS)

@@ -10,4 +10,4 @@ author_profile: true
 * Airyx SkySpec200 Multiple Axis Differential Optical Absorption Spectrometer (MAX-DOAS)
 
 <img src="/images/DOAS.jpg" height="150px">
-* Iterative Cavity Enhanced DOAS
+* Airyx Iterative Cavity Enhanced DOAS (ICAD)
