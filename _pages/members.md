@@ -6,10 +6,12 @@ excerpt: "Group Members"
 author_profile: true
 ---
 # Current Members
-* Emmanuel Shum
-	* Major: Chemistry (ACS)
 
 # Alumni
+* Emmanuel Shum '22
+	* Major: Chemistry (ACS)
+	* 2022 Undergraduate Research Award
+
 * Lisa Hernandez '21
 	* Major: Biochemistry
 	* 2019 Baudrand Fellow in Chemistry

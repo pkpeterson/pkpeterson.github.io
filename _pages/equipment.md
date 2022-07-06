@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /instuments/
-title: "Instuments"
+permalink: /instruments/
+title: "Instruments"
 excerpt: "Instruments"
 author_profile: true
 ---
