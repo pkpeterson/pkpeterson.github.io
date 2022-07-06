@@ -2,6 +2,8 @@
 main:
   - title: "Members"
     url: /members/
+  - title: "Whittier NO<sub>2</sub>"
+    url: /whittier_no2/ 
   - title: "Publications"
     url: /publications/
   - title: "Instruments"
