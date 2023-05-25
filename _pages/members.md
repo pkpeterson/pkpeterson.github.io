@@ -9,7 +9,8 @@ author_profile: true
 We are looking for prospective students, who are excited about environmental science, chemistry, and fieldwork. While prior computer programming experience is not required, a familiarity with or willingness to learn Python is a plus. If you are a Whittier College student and are interested in joining us,  please contact Prof. Peterson in person or by email to set up a meeting.
 
 
-<img src="/images/CasandaraAvila.jpg" height="150px">
+![Picture of Cassy](/images/CasandaraAvila.jpg)
+
 * Casandra Avila '25
 	* Major: Biochemistry
 	* 2023 Fletcher Jones Foundation Research Fellowship
