@@ -25,7 +25,10 @@ For Prospective Members
 ======
 We are looking for prospective students, who are excited about environmental science, chemistry, and fieldwork. While prior computer programming experience is not required, a familiarity with or willingness to learn Python is a plus. If you are a Whittier College student and are interested in joining us,  please contact Prof. Peterson in person or by email to set up a meeting.
 
+
+<!---
 Campus PM<sub>2.5</sub> Measurements
 =====
 <div id='PurpleAirWidget_55251_module_PM25_conversion_C0_average_10_layer_standard'>Loading PurpleAir Widget...</div>
 <script src='https://www.purpleair.com/pa.widget.js?key=5PVQM8FJNB0TLNTG&module=PM25&conversion=C0&average=10&layer=standard&container=PurpleAirWidget_55251_module_PM25_conversion_C0_average_10_layer_standard'></script>
+-->
