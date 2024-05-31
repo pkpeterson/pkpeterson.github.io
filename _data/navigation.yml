@@ -4,6 +4,8 @@ main:
     url: /members/
   - title: "Whittier NO<sub>2</sub>"
     url: /whittier_no2/ 
+  - title: "Whittier HCHO"
+    url: /whittier_hcho/ 
   - title: "Publications"
     url: /publications/
   - title: "Instruments"
