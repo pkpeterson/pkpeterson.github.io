@@ -22,6 +22,8 @@ We are looking for prospective students, who are excited about environmental sci
 
 
 # Alumni
+
+
 | Emmanuel Shum '22  | Lisa Hernandez '21 | Leslie Tanaka '21 |
 | ------------- | ------------- | ------------- |
 | Major: Chemistry (ACS) | Major: Biochemistry | Major: Chemistry (ACS) |
