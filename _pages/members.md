@@ -12,33 +12,17 @@ We are looking for prospective students, who are excited about environmental sci
 
 | Casandra Avila '25  | Charlotte Umstead '25 |
 | ------------- | ------------- |
-|![Picture of Cassy](/images/CasandaraAvila.jpg) |<img src="/images/CharlotteUmstead.jpg" height="150px">|
-| 	* Major: Biochemistry |Major: Biochemistry
-|	* 2023 Fletcher Jones Foundation Research Fellowship  | 2023 Fletcher Jones Foundation Research Fellowship |
+|<div style="text-align: center;">![Picture of Cassy](/images/CasandaraAvila.jpg)</div> | <div style="text-align: center;"><img src="/images/CharlotteUmstead.jpg" height="150px"></div> |
+| 	Major: Biochemistry |Major: Biochemistry
+|	Awards: 2023 Fletcher Jones Foundation Research Fellowship  | Awards: 2023 Fletcher Jones Foundation Research Fellowship |
 
 
 
 
-![Picture of Cassy](/images/CasandaraAvila.jpg)
 
-* Casandra Avila '25
-	* Major: Biochemistry
-	* 2023 Fletcher Jones Foundation Research Fellowship
-
-	
-<img src="/images/CharlotteUmstead.jpg" height="150px">
-* Charlotte Umstead '25
-	* Major: Biochemistry
-	* 2023 Fletcher Jones Foundation Research Fellowship
 
 # Alumni
-* Emmanuel Shum '22
-	* Major: Chemistry (ACS)
-	* 2022 Undergraduate Research Award
-
-* Lisa Hernandez '21
-	* Major: Biochemistry
-	* 2019 Baudrand Fellow in Chemistry
-
-* Leslie Tanaka '21
-	* Major: Chemistry (ACS)
+| Emmanuel Shum '22  | Lisa Hernandez '21 | Leslie Tanaka '21 |
+| ------------- | ------------- | ------------- |
+| Major: Chemistry (ACS) | Major: Biochemistry | Major: Chemistry (ACS) |
+| Awards: 2022 Undergraduate Research Award | Awards: 2019 Baudrand Fellow in Chemistry | |
