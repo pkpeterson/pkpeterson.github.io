@@ -13,7 +13,7 @@ We are looking for prospective students, who are excited about environmental sci
 | Casandra Avila '25  | Charlotte Umstead '25 |
 | ------------- | ------------- |
 |<div style="text-align: center;">![Picture of Cassy](/images/CasandaraAvila.jpg)</div> | <div style="text-align: center;"><img src="/images/CharlotteUmstead.jpg" height="150px"></div> |
-| 	Major: Biochemistry |Major: Biochemistry
+| 	Major: Biochemistry |Major: Biochemistry |
 |	Awards: 2023 Fletcher Jones Foundation Research Fellowship  | Awards: 2023 Fletcher Jones Foundation Research Fellowship |
 
 
