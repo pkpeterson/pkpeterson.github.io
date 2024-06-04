@@ -13,7 +13,7 @@ We are looking for prospective students, who are excited about environmental sci
 | ------------- | ------------- |
 | ![Picture of Cassy](/images/CasandaraAvila.jpg) | <img src="/images/CharlotteUmstead.jpg" height="150px"> |
 | 	Major: Biochemistry | Major: Biochemistry |
-|	Awards:<br><br> 2024 Undergraduate Research Award<br><br>2023 Fletcher Jones Foundation Fellowship  | Awards:<br><br> 2023 Fletcher Jones Foundation Research Fellowship |
+|	Awards:<br> 2024 Undergraduate Research Award in Chemistry<br>2023 Fletcher Jones Foundation Research Fellowship  | Awards:<br>< 2023 Fletcher Jones Foundation Research Fellowship |
 
 
 
@@ -26,4 +26,4 @@ We are looking for prospective students, who are excited about environmental sci
 | Emmanuel Shum '22  | Lisa Hernandez '21 | Leslie Tanaka '21 |
 | ------------- | ------------- | ------------- |
 | Major: Chemistry (ACS) | Major: Biochemistry | Major: Chemistry (ACS) |
-| Awards:<br><br> 2022 Undergraduate Research Award | Awards: 2019<br><br> Baudrand Fellow in Chemistry | |
+| Awards:<br> 2022 Undergraduate Research Award in Chemistry | Awards: 2019<br> Baudrand Fellow in Chemistry | |
