@@ -13,7 +13,7 @@ We are looking for prospective students, who are excited about environmental sci
 | ------------- | ------------- |
 | ![Picture of Cassy](/images/CasandaraAvila.jpg) | <img src="/images/CharlotteUmstead.jpg" height="150px"> |
 | 	Major: Biochemistry | Major: Biochemistry |
-|	Awards:<br> 2024 Undergraduate Research Award in Chemistry<br>2023 Fletcher Jones Foundation Research Fellowship  | Awards:<br>< 2023 Fletcher Jones Foundation Research Fellowship |
+|	Awards:<br> 2024 Undergraduate Research Award in Chemistry<br>2023 Fletcher Jones Foundation Research Fellowship  | Awards:<br> 2023 Fletcher Jones Foundation Research Fellowship |
 
 
 
